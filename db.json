@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "NQhyaDU9n",
+      "email": "5359663",
+      "password": "$2b$10$YAfu2zfc87mWI7AvFGz9Ve3gOl3djM79vMdlILne/POUhUGl4OHHC"
+    },
+    {
+      "id": "4yiZBhBHk",
+      "email": "5359663",
+      "password": "$2b$10$uIMAJtr6kh5hvTpNwx3iz.lwc0bCPBZEhypJLB81A6D3pNtY7KBbi"
+    }
+  ],
+  "sessions": [
+    {
+      "_id": "qs0NfrTvaczaEPFB8X7EYBUmzbtuefqC",
+      "session": {
+        "cookie": {
+          "originalMaxAge": null,
+          "expires": null,
+          "httpOnly": true,
+          "path": "/"
+        },
+        "flash": {}
+      },
+      "expires": 1621259547367
+    }
+  ]
+}
