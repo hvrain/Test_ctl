@@ -13,6 +13,7 @@ var flash = require('connect-flash');
 var bcrypt = require('bcrypt');
 var MySQLStore = require('express-mysql-session')(session);
 const PORT = process.env.PORT || 3000;
+const spawn = require('child_process').spawn;
 // const low = require('lowdb')
 // const FileSync = require('lowdb/adapters/FileSync');
 // const adapter = new FileSync('db.json')
